@@ -1,0 +1,5 @@
+
+export enum JOBTYPE{
+    PARTTIME = "PARTTIME",
+    FULLTIME = "FULLTIME" 
+}
